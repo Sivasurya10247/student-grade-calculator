@@ -10,4 +10,9 @@ Features:
 - Highest Mark
 - Lowest Mark
 
-Developed by Sivasurya
+Technologies Used:
+- Python
+- VS Code
+
+Author
+Sivasurya
